@@ -1,8 +1,8 @@
 class Tomato < Formula
   desc "Set Slack status and availability from the command line"
   homepage "https://github.com/rustamyusupov/tomato"
-  url "https://github.com/rustamyusupov/tomato/archive/v0.1.1.tar.gz"
-  sha256 "8c8e443cbf4c242dc6629172fec3a59555a26a7cb19f05e0e325de98eff24473"
+  url "https://github.com/rustamyusupov/tomato/archive/v0.2.0.tar.gz"
+  sha256 "abbab6d34c6fb2abf5d54787fd6b6ecb63c27e75"
 
   depends_on "erlang"
   depends_on "rebar" => :build
